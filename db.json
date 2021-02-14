@@ -1,11 +1,9 @@
 {
-  "posts": [
-    {
+  "posts": {
     "value": 21,
     "min": 15,
     "max": 25
-   } 
-  ],
+   },
   "profile": {
     "name": "typicode"
   }
