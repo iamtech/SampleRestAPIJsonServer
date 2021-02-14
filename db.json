@@ -1,7 +1,12 @@
-[
-  {
+{
+  "posts": [
+    {
     "value": 1,
     "min": 30,
     "max": 20
+   } 
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
